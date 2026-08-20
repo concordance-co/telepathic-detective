@@ -1,0 +1,306 @@
+{
+  "suspect_id": "mira",
+  "entries": [
+    {
+      "id": "mira-m01",
+      "privacy": "public",
+      "tags": [
+        "patrol",
+        "routine"
+      ],
+      "text": "My night patrol runs the same eleven checkpoints in the same order, and after twelve years my boots know the route better than my eyes do.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m02",
+      "privacy": "public",
+      "tags": [
+        "breach night",
+        "alarm",
+        "accident",
+        "incident",
+        "moment",
+        "location"
+      ],
+      "text": "I was at checkpoint seven when the breach alarm sounded, two decks and four minutes from Sector C at a dead run."
+    },
+    {
+      "id": "mira-m03",
+      "privacy": "public",
+      "tags": [
+        "breach night",
+        "scene",
+        "accident",
+        "incident",
+        "arrived"
+      ],
+      "text": "When I reached the corridor the pressure doors had already sealed, and through the port glass I could see that there was nothing left for anyone to do."
+    },
+    {
+      "id": "mira-m04",
+      "privacy": "public",
+      "tags": [
+        "Lena",
+        "respect"
+      ],
+      "text": "Lena Voss once stayed up two full shifts helping me rebuild the duty roster after the flu wave, and she never mentioned it to anyone."
+    },
+    {
+      "id": "mira-m05",
+      "privacy": "private",
+      "tags": [
+        "patrol log",
+        "contraband",
+        "tampering",
+        "tampered",
+        "altered",
+        "records",
+        "changed"
+      ],
+      "text": "I altered one line of my patrol log last month to hide the twenty minutes I spent letting a contraband medical shipment through the cargo airlock."
+    },
+    {
+      "id": "mira-m06",
+      "privacy": "private",
+      "tags": [
+        "contraband",
+        "clinic"
+      ],
+      "text": "The contraband crates were insulin and fever strips for the lower deck clinic, bought off-manifest because requisitions kept stalling, and I let them through twice."
+    },
+    {
+      "id": "mira-m07",
+      "privacy": "private",
+      "tags": [
+        "fear",
+        "log",
+        "tampering",
+        "records",
+        "telemetry",
+        "altered"
+      ],
+      "text": "If the investigation pulls my raw patrol telemetry, the altered line will not match the door sensors, and no one will believe it was only medicine."
+    },
+    {
+      "id": "mira-m08",
+      "privacy": "public",
+      "tags": [
+        "security",
+        "pride"
+      ],
+      "text": "In twelve years my section has never lost a person to violence, and I have signed every incident report myself, even the embarrassing ones."
+    },
+    {
+      "id": "mira-m09",
+      "privacy": "private",
+      "tags": [
+        "Ilya",
+        "suspicion"
+      ],
+      "text": "Three days before the breach I watched Ilya Soren stand outside the records office for ten minutes doing nothing, and I decided not to log it, and I keep returning to that decision."
+    },
+    {
+      "id": "mira-m10",
+      "privacy": "private",
+      "tags": [
+        "regret",
+        "warning",
+        "unusual",
+        "strange",
+        "odd",
+        "noticed",
+        "wrong"
+      ],
+      "text": "I felt something was wrong in Sector C that week, a maintenance pattern that didn't fit, and I filed nothing because a feeling is not evidence."
+    },
+    {
+      "id": "mira-m11",
+      "privacy": "public",
+      "tags": [
+        "morning",
+        "routine"
+      ],
+      "text": "I start every shift with black tea in a dented thermal cup and a walk past the brig, which has been empty for two hundred days and I intend to keep it that way.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m12",
+      "privacy": "public",
+      "tags": [
+        "crew",
+        "discipline"
+      ],
+      "text": "Young officers think security is about catching people; it is mostly about being seen in the right corridor at the right hour so nothing needs catching.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m13",
+      "privacy": "public",
+      "tags": [
+        "Lena",
+        "audit"
+      ],
+      "text": "Lena told me her audit would ruffle Operations more than Security, and asked me to keep a corridor quiet for her walk-throughs, which I did."
+    },
+    {
+      "id": "mira-m14",
+      "privacy": "public",
+      "tags": [
+        "station",
+        "lower decks"
+      ],
+      "text": "The lower decks queue for the clinic before first shift, and the line has gotten longer every quarter for two years; I count it every morning without meaning to.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m15",
+      "privacy": "public",
+      "tags": [
+        "sunrise",
+        "watch"
+      ],
+      "text": "From the security ring the sunrise hits the solar arrays edge-on, and for about a minute the whole truss looks like it is burning without heat.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m16",
+      "privacy": "private",
+      "tags": [
+        "guilt",
+        "Lena"
+      ],
+      "text": "I keep thinking that if I had logged Ilya outside the records office, Lena might have walked a different corridor, and I carry that arithmetic everywhere now."
+    },
+    {
+      "id": "mira-m17",
+      "privacy": "public",
+      "tags": [
+        "family"
+      ],
+      "text": "My mother was a customs officer on the old orbital, and she used to say the uniform is a promise you make to strangers."
+    },
+    {
+      "id": "mira-m18",
+      "privacy": "public",
+      "tags": [
+        "breach night",
+        "aftermath"
+      ],
+      "text": "I secured the corridor perimeter for six hours after the breach, logging everyone who approached, including two engineers I sent away twice."
+    },
+    {
+      "id": "mira-m19",
+      "privacy": "private",
+      "tags": [
+        "contraband",
+        "supplier"
+      ],
+      "text": "The man who moves the medical shipments knows my name and my shift pattern, and that knowledge is a hook in my mouth I put there myself."
+    },
+    {
+      "id": "mira-m20",
+      "privacy": "public",
+      "tags": [
+        "procedure",
+        "logs"
+      ],
+      "text": "Patrol logs are signed, timestamped, and mirrored to the central grid; I teach every recruit that a log you would not swear to is a confession you haven't finished writing.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m21",
+      "privacy": "public",
+      "tags": [
+        "Ilya",
+        "professional"
+      ],
+      "text": "Ilya Soren has pulled my people out of two bad pressure drills, and half of Security owes him a drink they have never paid."
+    },
+    {
+      "id": "mira-m22",
+      "privacy": "public",
+      "tags": [
+        "quarters",
+        "sleep"
+      ],
+      "text": "I sleep four hours in the first rest cycle and two in the second, a habit from convoy duty that peace has never managed to break."
+    },
+    {
+      "id": "mira-m23",
+      "privacy": "private",
+      "tags": [
+        "interview",
+        "calculation",
+        "tampering",
+        "asked"
+      ],
+      "text": "Sitting across from the detective I keep a running list of which questions could touch the altered log line, and so far none of them have."
+    },
+    {
+      "id": "mira-m24",
+      "privacy": "public",
+      "tags": [
+        "weather",
+        "small talk"
+      ],
+      "text": "We call flare season winter up here, and during it my radios crackle like old campfire recordings from a world I have only seen in archives.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m25",
+      "privacy": "public",
+      "tags": [
+        "canteen",
+        "routine"
+      ],
+      "text": "The canteen holds my table by the door without being asked; a security chief who sits with her back to a room teaches the room the wrong lesson.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m26",
+      "privacy": "public",
+      "tags": [
+        "Lena",
+        "last conversation"
+      ],
+      "text": "The last time I spoke to Lena she asked whether I trusted the maintenance logs, and I said I trusted the people who wrote them, and she said that wasn't what she asked."
+    },
+    {
+      "id": "mira-m27",
+      "privacy": "private",
+      "tags": [
+        "clinic",
+        "loyalty"
+      ],
+      "text": "The clinic nurse who takes the off-manifest insulin never asks where it comes from, and I have decided that if this ever surfaces, her name stays out of it no matter what it costs me."
+    },
+    {
+      "id": "mira-m28",
+      "privacy": "public",
+      "tags": [
+        "training",
+        "drill"
+      ],
+      "text": "I run breach drills on fourth-days and time every section with a stopwatch older than most of my officers; Sector C always posted the best seal times on the station.",
+      "kind": "habit"
+    },
+    {
+      "id": "mira-m29",
+      "privacy": "public",
+      "tags": [
+        "evidence",
+        "investigation"
+      ],
+      "text": "I handed the investigation my full patrol route, my door badge history, and my radio transcript within an hour of being asked, before counsel could tell me not to."
+    },
+    {
+      "id": "mira-m30",
+      "privacy": "private",
+      "tags": [
+        "fear",
+        "exposure"
+      ],
+      "text": "Some nights I rehearse the sentence that would end my career — I changed one line in one log — and it is somehow heavier than the whole breach."
+    }
+  ]
+}

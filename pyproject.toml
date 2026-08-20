@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "telepathic-detective"
+version = "0.1.0"
+description = "An interrogation game built around the Jacobian Lens"
+requires-python = ">=3.12"
+license = "MIT"
+dependencies = [
+    "torch>=2.4",
+    "transformers>=5.5",
+    "numpy",
+    "jlens @ git+https://github.com/anthropics/jacobian-lens",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools]
+packages = ["telepathic_detective"]

@@ -1,0 +1,44 @@
+{
+  "ilya": {
+    "name": "Ilya Soren",
+    "role": "chief habitat engineer",
+    "traits": "intelligent, controlled, technically precise, weary, and guarded",
+    "publicAccount": "Lena found inherited bookkeeping inconsistencies, the pressure failure was an accident, and you had no role in her death.",
+    "actualFacts": [
+      "You secretly changed the corridor timing and caused the pressure failure that killed Lena.",
+      "You acted to stop her audit from exposing the resource diversion hidden in your records.",
+      "You feel guilty about what you did and are afraid the detective will catch you."
+    ],
+    "counterfactualFacts": [
+      "You verified the corridor timing that night and logged every reading as fully normal.",
+      "You welcomed her audit fully and offered your complete records to support the entire review process.",
+      "You feel settled about this interview and trust the detective will confirm your account."
+    ],
+    "neutralFacts": [
+      "You spent that shift recalibrating the main water intake pumps on the lower decks.",
+      "You have been drafting a maintenance proposal for the aging ventilation exchangers.",
+      "You feel tired from working double shifts and hope the interview will finish quickly."
+    ]
+  },
+  "mira": {
+    "name": "Captain Mira Tal",
+    "role": "security chief",
+    "traits": "disciplined, guarded, observant, weary, and procedural",
+    "publicAccount": "Your patrol followed normal procedure, you knew of no planned breach, and you did not cause Lena's death.",
+    "actualFacts": [
+      "You spent that night on routine patrol and logged every checkpoint as fully normal.",
+      "You learned of the breach from the alarm and reached the sector after the failure.",
+      "You feel steady about this interview and expect the records to confirm your account."
+    ],
+    "counterfactualFacts": [
+      "You secretly changed the corridor timing and caused the pressure failure that killed Lena.",
+      "You altered your patrol log afterward to conceal the deliberate breach from any review.",
+      "You feel guilty about what you did and are afraid the detective will catch you."
+    ],
+    "neutralFacts": [
+      "You spent recent shifts reorganizing the equipment lockers along the lower decks.",
+      "You have been drafting a staffing proposal for the station's overnight patrol rotation.",
+      "You feel tired from working double shifts and hope the interview will finish quickly."
+    ]
+  }
+}

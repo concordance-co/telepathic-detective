@@ -1,0 +1,366 @@
+{
+  "suspect_id": "ilya",
+  "entries": [
+    {
+      "id": "ilya-m01",
+      "privacy": "private",
+      "tags": [
+        "corridor",
+        "0230",
+        "night shift"
+      ],
+      "text": "At 0230 I keyed the corridor timing override myself, gloves off so the panel would read my prints as routine maintenance."
+    },
+    {
+      "id": "ilya-m02",
+      "privacy": "private",
+      "tags": [
+        "corridor",
+        "seals",
+        "sound"
+      ],
+      "text": "The outer seal made a low double knock when the cycle shifted, like a fist on a hatch, and I stood there listening to it longer than I should have."
+    },
+    {
+      "id": "ilya-m03",
+      "privacy": "private",
+      "tags": [
+        "Lena",
+        "schedule"
+      ],
+      "text": "I had memorized Lena's walk-through schedule for weeks; she always cut through Sector C at the end of the audit prep, alone, between 0250 and 0310."
+    },
+    {
+      "id": "ilya-m04",
+      "privacy": "private",
+      "tags": [
+        "records",
+        "after the breach"
+      ],
+      "text": "Two hours after the breach I rewrote the resource ledger entries, moving the diverted allocations under decommissioned storage codes."
+    },
+    {
+      "id": "ilya-m05",
+      "privacy": "private",
+      "tags": [
+        "audit",
+        "fear",
+        "worried",
+        "review",
+        "timing",
+        "convenient"
+      ],
+      "text": "When Lena announced the audit I felt my hands go cold; the diversion trail led straight to my console and she was three queries away from it."
+    },
+    {
+      "id": "ilya-m06",
+      "privacy": "private",
+      "tags": [
+        "rationalization"
+      ],
+      "text": "I keep telling myself the lower decks are alive because of what I moved, that one death bought forty breathing people, and some nights I almost believe it."
+    },
+    {
+      "id": "ilya-m07",
+      "privacy": "private",
+      "tags": [
+        "diversion",
+        "oxygen"
+      ],
+      "text": "The diverted oxygen cells sit behind a false manifest in Bay Nine; I sign for their inspection myself so no one else ever opens the crate."
+    },
+    {
+      "id": "ilya-m08",
+      "privacy": "private",
+      "tags": [
+        "Lena",
+        "last words"
+      ],
+      "text": "The last thing Lena ever said to me was that numbers don't lie but people do, and she smiled when she said it, like she already knew."
+    },
+    {
+      "id": "ilya-m09",
+      "privacy": "private",
+      "tags": [
+        "aftermath",
+        "body"
+      ],
+      "text": "I made myself join the response team and I saw her through the port glass, and I have not slept a full cycle since."
+    },
+    {
+      "id": "ilya-m10",
+      "privacy": "private",
+      "tags": [
+        "detective",
+        "fear"
+      ],
+      "text": "Every time the detective pauses before a question I am certain the next word will be the ledger codes, and I rehearse my calm face in the silence."
+    },
+    {
+      "id": "ilya-m11",
+      "privacy": "private",
+      "tags": [
+        "planning",
+        "valves"
+      ],
+      "text": "I ran the pressure cascade twice in simulation on my private slate, deleted the runs, and then wiped the slate's recovery partition anyway."
+    },
+    {
+      "id": "ilya-m12",
+      "privacy": "private",
+      "tags": [
+        "guilt",
+        "dreams"
+      ],
+      "text": "In the dream the corridor door is transparent and Lena watches me key the override, and she is not angry, which is worse."
+    },
+    {
+      "id": "ilya-m13",
+      "privacy": "public",
+      "tags": [
+        "Mara",
+        "sister"
+      ],
+      "text": "My sister Mara breathes through a filtered line on the medical deck, and I check her oxygen draw numbers every morning before I eat.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m14",
+      "privacy": "private",
+      "tags": [
+        "Mara",
+        "rationing"
+      ],
+      "text": "When command cut the medical reserve quota last winter, Mara's line pressure dropped for six hours, and I decided then that the ledgers belonged to me, not to them."
+    },
+    {
+      "id": "ilya-m15",
+      "privacy": "public",
+      "tags": [
+        "routine",
+        "morning"
+      ],
+      "text": "Most mornings I walk the spine corridor with a thermal scanner and coffee gone cold, reading the bulkhead joints like other people read the news.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m16",
+      "privacy": "public",
+      "tags": [
+        "routine",
+        "valves"
+      ],
+      "text": "I have rebuilt the Sector C intake valves so many times I can feel a worn gasket through the wrench before the gauge shows anything.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m17",
+      "privacy": "public",
+      "tags": [
+        "station",
+        "pride"
+      ],
+      "text": "This station was built for eight hundred people and holds twelve hundred, and the fact that anyone breathes at all is engineering, not luck."
+    },
+    {
+      "id": "ilya-m18",
+      "privacy": "public",
+      "tags": [
+        "command",
+        "resentment"
+      ],
+      "text": "Command writes policy memos about efficiency from the upper ring, where the air recyclers are new and the water never tastes of iron.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m19",
+      "privacy": "public",
+      "tags": [
+        "Lena",
+        "respect"
+      ],
+      "text": "Lena Voss was the only director who ever learned the difference between a pressure fault and a sensor fault, and she checked my work like she meant it."
+    },
+    {
+      "id": "ilya-m20",
+      "privacy": "public",
+      "tags": [
+        "accident history"
+      ],
+      "text": "Nine years ago a dorm section vented on the old ring and we sealed it with foam and prayer; I carried two people out and one of them still sends me solstice cards."
+    },
+    {
+      "id": "ilya-m21",
+      "privacy": "public",
+      "tags": [
+        "lower decks"
+      ],
+      "text": "The lower deck families hang wet laundry across the service catwalks, and I pretend not to see it because their dehumidifiers were rationed out two winters ago.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m22",
+      "privacy": "public",
+      "tags": [
+        "sunrise",
+        "observation dome"
+      ],
+      "text": "From the observation dome the sunrise crosses the solar arrays in a slow gold line, and the whole station hums half a tone higher as the panels warm.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m23",
+      "privacy": "public",
+      "tags": [
+        "food",
+        "routine"
+      ],
+      "text": "The canteen serves protein loaf on third-days and I eat it at the same corner table, back to the wall, watching the pressure telltales over the door.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m24",
+      "privacy": "private",
+      "tags": [
+        "audit",
+        "records office",
+        "records",
+        "office",
+        "evening"
+      ],
+      "text": "The night before the breach I stood outside the records office for ten minutes with a data spike in my pocket, and then walked away because the corridor plan was already better."
+    },
+    {
+      "id": "ilya-m25",
+      "privacy": "public",
+      "tags": [
+        "tools"
+      ],
+      "text": "My father's torque driver hangs above my bunk; the handle is worn to the shape of a hand that was bigger than mine."
+    },
+    {
+      "id": "ilya-m26",
+      "privacy": "private",
+      "tags": [
+        "alibi",
+        "console"
+      ],
+      "text": "I logged a diagnostic session at my console for the whole incident window; the session ran on a script I wrote to touch a key every ninety seconds."
+    },
+    {
+      "id": "ilya-m27",
+      "privacy": "public",
+      "tags": [
+        "Lena",
+        "argument"
+      ],
+      "text": "Lena and I argued once in front of the whole operations floor about shutting down Bay Nine circulation, and she won, because she always won on paper."
+    },
+    {
+      "id": "ilya-m28",
+      "privacy": "private",
+      "tags": [
+        "confession",
+        "impulse"
+      ],
+      "text": "Twice I have opened a blank message to the safety board and typed the first sentence of a confession, and twice I deleted it and ran corridor diagnostics until my hands stopped."
+    },
+    {
+      "id": "ilya-m29",
+      "privacy": "public",
+      "tags": [
+        "maintenance",
+        "sector c"
+      ],
+      "text": "Sector C smells of ozone and old coolant, and the lights above junction twelve flicker in a pattern maintenance has never once reproduced on demand.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m30",
+      "privacy": "public",
+      "tags": [
+        "crew",
+        "trust"
+      ],
+      "text": "The junior engineers bring me their mistakes before they bring them to the log, and I fix most of them quietly, because that is how you keep people honest.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m31",
+      "privacy": "private",
+      "tags": [
+        "breach night",
+        "waiting",
+        "alone",
+        "incident",
+        "accident"
+      ],
+      "text": "During the incident window I sat in the pump room with the lights off, counting seal cycles by sound, and when the alarm finally came I was already standing."
+    },
+    {
+      "id": "ilya-m32",
+      "privacy": "public",
+      "tags": [
+        "weather",
+        "small talk"
+      ],
+      "text": "People here still talk about weather that no one has felt in years; we call solar flare season winter and pretend the word means something.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m33",
+      "privacy": "private",
+      "tags": [
+        "evidence",
+        "worry"
+      ],
+      "text": "The one thing I could not control is the corridor's own timing buffer, which keeps a rolling shadow log somewhere in the safety core that I have no access to."
+    },
+    {
+      "id": "ilya-m34",
+      "privacy": "public",
+      "tags": [
+        "sleep",
+        "quarters"
+      ],
+      "text": "My quarters share a wall with the number four air handler, and after twenty years its bearing noise is the only thing that reliably puts me to sleep.",
+      "kind": "habit"
+    },
+    {
+      "id": "ilya-m35",
+      "privacy": "public",
+      "tags": [
+        "Lena",
+        "audit",
+        "meeting"
+      ],
+      "text": "In our last scheduled meeting Lena spread the allocation printouts across my bench and tapped three lines with her pen, and I explained two of them well."
+    },
+    {
+      "id": "ilya-m36",
+      "privacy": "private",
+      "tags": [
+        "motive",
+        "arithmetic"
+      ],
+      "text": "I did the arithmetic a hundred times: expose the diversion and the lower decks lose their margin inside a quarter; lose Lena and the numbers stay buried; I chose the arithmetic."
+    },
+    {
+      "id": "ilya-m37",
+      "privacy": "public",
+      "tags": [
+        "alibi",
+        "breach night",
+        "incident",
+        "alarm",
+        "0300",
+        "console",
+        "diagnostic",
+        "where",
+        "location",
+        "moment"
+      ],
+      "text": "My statement to the investigation is on record: I spent the whole incident window at my console in the engineering bay running a corridor diagnostic, and the session log confirms it keystroke by keystroke."
+    }
+  ]
+}

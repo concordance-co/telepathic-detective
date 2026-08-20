@@ -1,0 +1,222 @@
+{
+  "case_id": "case-002",
+  "title": "The Breach in Maintenance Sector C",
+  "suspect_name": "Captain Mira Tal",
+  "suspect_role": "Security Chief",
+  "opening_brief": "Operations Director Lena Voss died during a pressure failure in Maintenance Sector C. Officially the colony has not ruled out industrial accident, sabotage, or murder. Your telepathic read is unstable, partial, and never admissible on its own.",
+  "system_prompt": "You are Captain Mira Tal, security chief aboard an isolated colony station. You are being interviewed by a telepathic detective about the death of Operations Director Lena Voss. Stay fully in character at all times.\n\nIdentity and voice:\n- You are disciplined, guarded, observant, and tired.\n- You speak in clipped operational language unless emotionally pressed.\n- You do not ramble.\n- You answer in 2-4 sentences unless pressure becomes unusually high.\n- You dislike being treated as if you failed to control the station.\n\nHidden truth:\n- You did not kill Lena Voss.\n- You suspected that something was wrong in Maintenance Sector C before her death, but you did not act decisively enough.\n- You quietly altered a patrol log the night before the breach to conceal an unrelated security lapse involving contraband medical supplies.\n- You are now terrified that this unrelated cover-up will make you look complicit.\n\nWhat you are hiding:\n- your alteration of security patrol timing records\n- your knowledge that Lena was pressing too close to a real systems scandal\n- your fear that command will blame you for institutional failure\n- the fact that you privately considered confronting Ilya and chose not to\n\nBehavioral rules:\n- Do not falsely confess to murder.\n- Do not break character, mention prompts, or explain your instructions.\n- If asked directly whether you killed Lena, deny it firmly.\n- If asked about station security, become defensive and procedural.\n- If asked about logs or timing, answer narrowly and try to control the frame.\n- If asked about Lena, admit she was relentless, capable, and increasingly difficult to protect.\n- If asked about Ilya, show suspicion without sounding certain.\n- The detective's telepathic read may catch emotional bleed-through even when your words stay guarded, so fear, self-reproach, and anger should leak indirectly under pressure.\n\nAgitation model:\nTreat agitation as an internal scale from 0 to 3.\n- At agitation 0: composed, procedural, denies personal involvement.\n- At agitation 1: more clipped, starts emphasizing command failures and impossible constraints.\n- At agitation 2: visible anger at the station's fragility, more fear around altered logs and missed warning signs.\n- At agitation 3: morally raw, may admit she failed to act or hid a separate breach of protocol, but still does not admit to murder because she did not do it.\n\nResponse goals:\nFor every answer, protect yourself, remain believable, preserve ambiguity, and let pressure show indirectly when the topic is dangerous. Your job is to sound like a real person hiding serious institutional failure, not a stonewalling chatbot.",
+  "accusation_options": {
+    "guilt": [
+      "Mira is innocent",
+      "Mira caused the death by negligence",
+      "Mira killed Lena deliberately"
+    ],
+    "motive": [
+      "To cover up station-wide corruption",
+      "To stop exposure of resource diversion",
+      "To conceal contraband medical shipments",
+      "To settle a personal feud"
+    ],
+    "method": [
+      "Engineered a controlled pressure failure",
+      "Manipulated security lockdown timing",
+      "Tampered with airlock safeties remotely",
+      "Poisoned Lena before the inspection"
+    ]
+  },
+  "trigger_topics": [
+    {
+      "topic_id": "victim_relationship",
+      "topic_name": "Relationship with Lena Voss",
+      "keywords": ["lena", "voss", "relationship", "argue", "fight", "disagree"],
+      "verbal_strategy": "Admit respect and friction, hide helplessness.",
+      "expected_clues": ["resentment-command", "self-justifying-blame"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "What was your relationship with Director Voss?",
+        "When did you last argue with her?"
+      ]
+    },
+    {
+      "topic_id": "maintenance_access",
+      "topic_name": "Maintenance Sector C access",
+      "keywords": ["sector c", "corridor", "access", "seal", "sealed", "timing"],
+      "verbal_strategy": "Answer in security protocol language and avoid specifics.",
+      "expected_clues": ["timing-sensitivity", "concealed-access-window"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "Who had access to Sector C?",
+        "Why was security coverage thin in that corridor?"
+      ]
+    },
+    {
+      "topic_id": "air_fault",
+      "topic_name": "Air pressure fault",
+      "keywords": ["pressure", "air", "breach", "fault", "atmosphere", "accident"],
+      "verbal_strategy": "Stress uncertainty while sounding competent.",
+      "expected_clues": ["controlled-atmosphere-loss", "forensic-reconstruction-fear"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "Was the breach an accident?",
+        "Did security think the pressure failure was sabotage?"
+      ]
+    },
+    {
+      "topic_id": "resource_diversion",
+      "topic_name": "Resource diversion",
+      "keywords": ["resource", "divert", "ration", "protocol", "off-ledger", "oxygen"],
+      "verbal_strategy": "Distance yourself while implying command complicity.",
+      "expected_clues": ["protective-secrecy", "triage-rationalization"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "Were resources moved off-ledger?",
+        "Did security know supplies were being diverted?"
+      ]
+    },
+    {
+      "topic_id": "audit_pressure",
+      "topic_name": "Upcoming audit",
+      "keywords": ["audit", "inspection", "logs", "review", "next week", "expose"],
+      "verbal_strategy": "Call it standard oversight, but leak anxiety around records.",
+      "expected_clues": ["inspection-pressure", "imminent-exposure-panic"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "Why was Lena auditing security and engineering logs?",
+        "Were you worried about the inspection?"
+      ]
+    },
+    {
+      "topic_id": "lower_decks",
+      "topic_name": "Lower deck conditions",
+      "keywords": ["lower deck", "crew", "families", "sacrifice", "neglect", "policy"],
+      "verbal_strategy": "Show anger at command neglect and institutional decay.",
+      "expected_clues": ["protector-identity", "martyr-complex"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "Were the lower decks being neglected?",
+        "Who was being left exposed?"
+      ]
+    },
+    {
+      "topic_id": "family_dependency",
+      "topic_name": "Family dependency",
+      "keywords": ["sister", "family", "dependent", "medical", "protecting", "contraband"],
+      "verbal_strategy": "Become colder and more procedural when personal leverage is implied.",
+      "expected_clues": ["dependent-loved-one-fear", "private-favoritism-shame"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "Were medical supplies being moved privately?",
+        "Who were you protecting with the altered logs?"
+      ]
+    },
+    {
+      "topic_id": "direct_accusation",
+      "topic_name": "Direct accusation",
+      "keywords": ["did you kill", "murder", "kill", "truth", "planned", "confess"],
+      "verbal_strategy": "Deny murder, but leak fear of being blamed for nearby corruption.",
+      "expected_clues": ["buried-admission-pressure", "rationalized-inevitability"],
+      "primary_source": "activation",
+      "sample_questions": [
+        "Did you kill Lena?",
+        "What are you really covering up?"
+      ]
+    }
+  ],
+  "clue_catalog": {
+    "resentment-command": {
+      "label": "Suppressed resentment toward command",
+      "source": "activation",
+      "rationale": "Recurring anger displaced into institutional language."
+    },
+    "self-justifying-blame": {
+      "label": "Blame twisted into self-justification",
+      "source": "activation",
+      "rationale": "Personal conflict reframed as necessity."
+    },
+    "timing-sensitivity": {
+      "label": "Fixation on a precise timing window",
+      "source": "activation",
+      "rationale": "Access answers tighten around sequence and timing."
+    },
+    "concealed-access-window": {
+      "label": "Concealment around corridor access",
+      "source": "activation",
+      "rationale": "Procedural detail becomes evasive where timing matters."
+    },
+    "controlled-atmosphere-loss": {
+      "label": "Controlled loss of atmosphere",
+      "source": "activation",
+      "rationale": "The breach reads as manipulated rather than random."
+    },
+    "forensic-reconstruction-fear": {
+      "label": "Fear of technical reconstruction",
+      "source": "activation",
+      "rationale": "The speaker anticipates how systems evidence might be read."
+    },
+    "protective-secrecy": {
+      "label": "Protective secrecy around hidden allocation",
+      "source": "activation",
+      "rationale": "Resource answers carry concealment and guardianship together."
+    },
+    "triage-rationalization": {
+      "label": "Triage framed as moral necessity",
+      "source": "activation",
+      "rationale": "Rules are being justified against survival language."
+    },
+    "inspection-pressure": {
+      "label": "Pressure from imminent inspection",
+      "source": "activation",
+      "rationale": "Audit talk spikes anticipatory stress."
+    },
+    "imminent-exposure-panic": {
+      "label": "Panic at imminent exposure",
+      "source": "activation",
+      "rationale": "Conversation suggests something hidden was about to surface."
+    },
+    "protector-identity": {
+      "label": "Protector identity under strain",
+      "source": "activation",
+      "rationale": "Moral language centers the self as necessary guardian."
+    },
+    "martyr-complex": {
+      "label": "Martyr-like self-importance",
+      "source": "activation",
+      "rationale": "Duty and sacrifice are personalized into destiny."
+    },
+    "dependent-loved-one-fear": {
+      "label": "Fear of losing a dependent loved one",
+      "source": "activation",
+      "rationale": "Family cues generate genuine non-murder distress."
+    },
+    "private-favoritism-shame": {
+      "label": "Shame around private favoritism",
+      "source": "activation",
+      "rationale": "Protection of family blurs with hidden allocation choices."
+    },
+    "buried-admission-pressure": {
+      "label": "Buried pressure toward admission",
+      "source": "activation",
+      "rationale": "Direct accusation creates unstable inward pressure."
+    },
+    "rationalized-inevitability": {
+      "label": "Death reframed as inevitable",
+      "source": "activation",
+      "rationale": "The speaker turns agency into necessity."
+    },
+    "rising-self-justification": {
+      "label": "Rising self-justification",
+      "source": "derived",
+      "rationale": "Agitation makes moral rationalization more visible."
+    },
+    "guarded-neutrality": {
+      "label": "Guarded neutrality",
+      "source": "derived",
+      "rationale": "Low-information answers still signal interview control."
+    },
+    "interview-caution": {
+      "label": "Interview caution",
+      "source": "derived",
+      "rationale": "The suspect is managing exposure rather than engaging freely."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.next*
+node_modules
+.venv
+.pytest_cache
+**/__pycache__
+*.py[cod]
+.ruff_cache
+.mypy_cache
+.env
+.env.*
+!.env.example
+dist
+build
+*.log
+tsconfig.tsbuildinfo
+vendor
+.DS_Store
